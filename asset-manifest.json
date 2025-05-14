@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/EpicMiles/static/css/main.05bc344e.css",
-    "main.js": "/EpicMiles/static/js/main.3bd3e4fd.js",
+    "main.js": "/EpicMiles/static/js/main.afc27e1d.js",
     "index.html": "/EpicMiles/index.html",
     "main.05bc344e.css.map": "/EpicMiles/static/css/main.05bc344e.css.map",
-    "main.3bd3e4fd.js.map": "/EpicMiles/static/js/main.3bd3e4fd.js.map"
+    "main.afc27e1d.js.map": "/EpicMiles/static/js/main.afc27e1d.js.map"
   },
   "entrypoints": [
     "static/css/main.05bc344e.css",
-    "static/js/main.3bd3e4fd.js"
+    "static/js/main.afc27e1d.js"
   ]
 }
