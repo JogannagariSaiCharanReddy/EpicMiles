@@ -48,7 +48,7 @@ function App() {
 
         {/* Protected Routes */}
         <Route
-          path="/dashboard"
+          path="/EpicMiles"
           element={
             <ProtectedRoute>
               <DashboardPage />
