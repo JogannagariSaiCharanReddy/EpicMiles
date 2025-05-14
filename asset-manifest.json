@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/JogannagariSaiCharanReddy/EpicMiles/static/css/main.05bc344e.css",
-    "main.js": "/JogannagariSaiCharanReddy/EpicMiles/static/js/main.3bd3e4fd.js",
-    "index.html": "/JogannagariSaiCharanReddy/EpicMiles/index.html",
-    "main.05bc344e.css.map": "/JogannagariSaiCharanReddy/EpicMiles/static/css/main.05bc344e.css.map",
-    "main.3bd3e4fd.js.map": "/JogannagariSaiCharanReddy/EpicMiles/static/js/main.3bd3e4fd.js.map"
+    "main.css": "/EpicMiles/static/css/main.05bc344e.css",
+    "main.js": "/EpicMiles/static/js/main.3bd3e4fd.js",
+    "index.html": "/EpicMiles/index.html",
+    "main.05bc344e.css.map": "/EpicMiles/static/css/main.05bc344e.css.map",
+    "main.3bd3e4fd.js.map": "/EpicMiles/static/js/main.3bd3e4fd.js.map"
   },
   "entrypoints": [
     "static/css/main.05bc344e.css",
